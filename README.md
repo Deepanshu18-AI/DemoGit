@@ -1,0 +1,2 @@
+# DemoGit
+Functionality of Git
